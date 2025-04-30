@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Youssef Samir</h1>
-<h3 align="center">I'm an undergraduate student pursuing a degree in Electrical and Computer Engineering with a focus on Embedded Software Development.</h3>
+<h1 align="center">   About me ✍️</h1>
 
-- 🔭 I’m currently working on **Custom 32-bit Processor in VHDL**
+<!-- Banner GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nameless-Dev0/Nameless-Dev0/main/banner.gif" width="900 height 300"/>
+</div>
 
-- 🌱 I’m currently learning **MCU programming & IoT systems**
+- 👋 Hi, I'm Youssef, an undergraduate student in Electrical and Computer Engineering with a focus on Embedded Software Development.
 
-- 📫 How to reach me **youssef.samir.mls@gmail.com**
+- 🔭 **Currently working on**: Custom 32-bit Processor in VHDL
+- 🌱 **Currently learning**: MCU Programming & IoT Systems
+- 📫 **Reach me at**: [youssef.samir.mls@gmail.com](mailto:youssef.samir.mls@gmail.com)
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### Languages and Tools:
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a> 
