@@ -1,10 +1,5 @@
 <h1 align="center">About me✍</h1>
 
-<!-- Banner GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nameless-Dev0/Nameless-Dev0/main/banner.gif" height 200"/>
-</div>
-
 - 👋 Hi, I'm Youssef, an undergraduate student in Electrical and Computer Engineering with a focus on Embedded Software Development.
 
 - 🔭 **Currently working on**: Custom 32-bit Processor in VHDL
