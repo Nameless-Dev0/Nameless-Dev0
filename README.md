@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Youssef, an undergraduate student in Electrical and Computer Engineering with a focus on Embedded Software Development.
 
-- 🔭 **Currently working on**: Custom 32-bit Processor in VHDL
+- 🔭 **Currently working on**: Tire Pressure Monitoring System (TPMS)
 - 🌱 **Currently learning**: MCU Programming & IoT Systems
 - 📫 **Reach me at**: [youssef.samir.mls@gmail.com](mailto:youssef.samir.mls@gmail.com)
 
