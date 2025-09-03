@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Youssef, an undergraduate student in Electrical and Computer Engineering with a focus on Embedded Software Development.
 
-- 🔭 **Currently working on**: Solar Energy Battery Management System (BMS)
+- 🔭 **Currently working on**: Battery Management System (BMS) for solar energy solution
 - 🌱 **Currently learning**: MCU Programming & IoT Systems
 - 📫 **Reach me at**: [youssef.samir.mls@gmail.com](mailto:youssef.samir.mls@gmail.com)
 
