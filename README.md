@@ -1,10 +1,11 @@
-<h1 align="center">About me</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!)](https://git.io/typing-svg)
+- 👋 Hi, I'm Youssef, an electrical and computer engineering undergraduate with a focus on embedded software development.
+- 📟 I like system programming and enjoy working on low level projects.
+- 📓 I am currently learning bare-metal on the STM32 platform.
 
-- Hi, I'm Youssef, an electrical and computer engineering undergraduate with a focus on embedded software development.
--  **Reach me at**: [youssef.samir.mls@gmail.com](mailto:youssef.samir.mls@gmail.com)
-
-<h3 align="center">Languages & Tools</h3>
-<p align="center">
+  
+<h3 align="left">Languages & Tools</h3>
+<p align="left">
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
