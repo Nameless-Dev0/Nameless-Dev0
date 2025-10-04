@@ -3,7 +3,6 @@
 - 📟 I like system programming and enjoy working on low level projects.
 - 📓 I am currently learning bare-metal on the STM32 platform.
 
-  
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
   
@@ -30,5 +29,8 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="80"/>
   </a>
+</p>  
 
-</p>
+<br>
+
+[![Monkeytype](https://img.shields.io/badge/monkeytype-ffaa71?logo=monkeytype&logoColor=FFFFFF&labelColor=FF717F)](https://monkeytype.com/profile/nameless-dev)
